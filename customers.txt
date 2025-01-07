@@ -1,0 +1,5 @@
+SNO,Name,Address,CNO
+1,CMR,Nizampet,20
+2,Forum,JNTU,30
+3,RS,Ameerpet,40
+4,CMR,KPHB,20

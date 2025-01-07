@@ -1,0 +1,3 @@
+Name,Material,CNO
+Shirts,Cotton,20
+Jeans,Likra,40
